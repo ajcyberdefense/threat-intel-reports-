@@ -1,0 +1,7 @@
+indicator_type,indicator_value,context,confidence,date_added
+url,michigan.govqo[.]cyou/dmv,Primary phishing URL,high,2026-04-09
+domain,govqo[.]cyou,Malicious parent domain,high,2026-04-09
+ip,47.245.176.247,Alibaba Cloud hosting,high,2026-04-09
+asn,AS45102,ALIBABA-CN-NET,medium,2026-04-09
+registrar,Gname.com Pte. Ltd.,Singapore-based registrar,informational,2026-04-09
+hash_sha256,C1F21464E607A37510B224E4144B1CA2B58D799CA0393AD5435AD5AA500F177B,URL hash,high,2026-04-09
